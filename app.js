@@ -21,3 +21,4 @@ Cambio rebase 1
 Cambio rebase 2
 Cambio nuevo en main
 Funcionalidad búsqueda
+Corrección de texto
