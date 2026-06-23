@@ -22,3 +22,4 @@ Cambio rebase 2
 Cambio nuevo en main
 Funcionalidad búsqueda
 Corrección de texto
+Nueva configuración
