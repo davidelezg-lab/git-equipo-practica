@@ -7,3 +7,4 @@ Funcionalidad carrito
 Funcionalidad carrito
 Cambio pequeño en header
 Cambio merge 1
+Cambio merge 2
