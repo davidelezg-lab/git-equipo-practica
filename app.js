@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Funcionalidad menú
 =======
 Funcionalidad footer
@@ -12,3 +13,7 @@ Cambio nuevo en main
 Cambio rebase 1
 Cambio rebase 2
 Cambio nuevo en main
+=======
+Cambio en main
+Cambio en feature-historial-rebase
+>>>>>>> 8a9c54c (Feat: cambio rebase 2)
