@@ -1,1 +1,1 @@
-Navbar creada por desarrollador A
+Navbar final acordada por el equipo
