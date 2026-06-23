@@ -6,3 +6,4 @@ Panel de administración
 >>>>>>> release/1.0
 Corrección urgente de login
 Cambio pequeño en título
+Cambio pequeño en footer
