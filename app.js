@@ -5,3 +5,4 @@ Navbar final acordada por el equipoCorrección urgente de producción
 Panel de administración
 >>>>>>> release/1.0
 Corrección urgente de login
+Cambio pequeño en título
