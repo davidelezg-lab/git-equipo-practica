@@ -1,1 +1,1 @@
-Navbar final acordada por el equipo
+Navbar final acordada por el equipoFuncionalidad: perfil de usuario
