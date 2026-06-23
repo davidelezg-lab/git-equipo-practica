@@ -1,1 +1,1 @@
-Navbar final acordada por el equipo
+Navbar final acordada por el equipoCorrección urgente de producción
