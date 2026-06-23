@@ -7,3 +7,4 @@ Panel de administración
 Corrección urgente de login
 Cambio pequeño en título
 Cambio pequeño en footer
+Cambio para merge
