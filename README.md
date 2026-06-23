@@ -1,1 +1,2 @@
 Proyecto equipo
+## Documentación inicial
