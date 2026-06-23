@@ -8,3 +8,4 @@ Corrección urgente de login
 Cambio pequeño en título
 Cambio pequeño en footer
 Cambio para merge
+Cambio independiente en main
