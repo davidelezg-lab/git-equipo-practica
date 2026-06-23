@@ -20,3 +20,4 @@ Cambio en feature-historial-rebase
 Cambio rebase 1
 Cambio rebase 2
 Cambio nuevo en main
+Funcionalidad búsqueda
