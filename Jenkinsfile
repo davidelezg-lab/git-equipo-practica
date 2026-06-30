@@ -2,22 +2,35 @@ pipeline {
     agent any
 
     stages {
+        stage('Checkout') {
+            steps {
+                echo 'Descargando código...'
+            }
+        }
+
         stage('Build') {
             steps {
-                echo 'Build OK'
+                echo 'Compilando...'
             }
         }
 
         stage('Test') {
             steps {
-                error 'Test fallido'
+                echo 'Ejecutando tests...'
+            }
+        }
+
+        stage('Analysis') {
+            steps {
+                echo 'Analizando calidad...'
             }
         }
 
         stage('Deploy') {
             steps {
-                echo 'Deploy OK'
+                echo 'Desplegando...'
             }
         }
     }
 }
+
