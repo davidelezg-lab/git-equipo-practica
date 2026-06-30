@@ -4,7 +4,19 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Build desde Git'
+                echo 'Build OK'
+            }
+        }
+
+        stage('Test') {
+            steps {
+                error 'Test fallido'
+            }
+        }
+
+        stage('Deploy') {
+            steps {
+                echo 'Deploy OK'
             }
         }
     }
